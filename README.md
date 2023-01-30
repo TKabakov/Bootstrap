@@ -1,2 +1,2 @@
 # Bootstrap
-A collection of my Bootstrap projrcts
+A collection of my Bootstrap projects
